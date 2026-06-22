@@ -53,7 +53,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-1. First take git clone then take pull when completed then start with Laravel open when with terminal command php artisan serve.
+1. First take git clone (git repository form github.com with signin) then take pull when completed then start with Laravel open when with terminal command php artisan serve.
 2. Make sure your database as per .env file according setup with backend with you database merge accordion
 3. Check with all structure frontend and backend and start work on this project accordion
 4. Username and pwd special character with add user-name frontend locahost/http://127.0.0.1:8000/log-in and backned localhost/http://127.0.0.1:8000/sign-in
